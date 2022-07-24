@@ -155,3 +155,10 @@ footer {
     right: 0px;
     left: 0px;
 }
+.lol {
+    background-color: white;
+}
+.lol:hover {
+      background-color: white;
+    
+}

@@ -1,6 +1,7 @@
 body{
     text-align: center;
     flex-wrap: wrap;
+    
 }
 a{
     text-align: left;
@@ -172,4 +173,8 @@ footer {
     padding: 3px 5px 3px 5px;
       text-decoration: none;
     font-size: 36px;
+}
+p {
+    margin-right: 30px;
+    margin-left: 30;
 }

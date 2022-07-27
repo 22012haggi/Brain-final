@@ -182,13 +182,12 @@ nav::before {
     content: url("https://i.pinimg.com/originals/1c/12/94/1c12948aae205024573b606130a0c9e3.jpg");
         display: block;
     opacity: 0;
-    width: 50px;
+    width: 30px;
     height: 50px;
 }
 nav:hover::before {
     opacity: 1;
-     width: 50px;
-    height: 50px;
+   
 }
 
 

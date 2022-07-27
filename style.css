@@ -184,11 +184,21 @@ nav {
 }
 nav:hover::before {
               background-color: blue;
+            width: 100px;
+
     border-radius: 30px;
     content: url(https://i.pinimg.com/originals/1c/12/94/1c12948aae205024573b606130a0c9e3.jpg");
     display: inline-block;
 }
-    
+    .rf:hover::before {
+              background-color: blue;
+        width: 100px;
+    border-radius: 30px;
+    content: url(https://i.pinimg.com/originals/1c/12/94/1c12948aae205024573b606130a0c9e3.jpg");
+    display: inline-block; 
+        
+}
+        
     
     
     

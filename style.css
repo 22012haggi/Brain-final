@@ -181,13 +181,13 @@ p {
 table {
         border-collapse: collapse;
     border: 3px solid red;
-        text-align: center;
+    justify-content: center;
 
 }
 tr {
     padding: 10px;
      border: 3px solid red;
-        text-align: center;
+    justify-content: center;
 
 }   
 
